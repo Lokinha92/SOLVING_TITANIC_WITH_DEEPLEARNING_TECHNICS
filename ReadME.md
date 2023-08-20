@@ -10,7 +10,7 @@
 
 O conjunto de dados do Titanic é um conjunto de dados clássico amplamente utilizado em treinamento e aprendizado de máquina. Ele contém informações sobre os passageiros do famoso navio RMS Titanic, que naufragou em sua viagem inaugural em 15 de abril de 1912, após colidir com um iceberg. O conjunto de dados é frequentemente usado para tarefas de classificação e análise preditiva, especialmente para prever se um passageiro sobreviveu ou não ao desastre.
 
-O conjunto contém informações sobre 891 passageiros do Titanic. As informações são dividadas em 11 atributos diferentes e uma classe (Survived):
+O conjunto contém informações sobre 891 passageiros do Titanic. As informações são divididas em 11 atributos diferentes e uma classe (Survived):
 
 - PassengerId: Um identificador único para cada passageiro.
 - Pclass (Classe): A classe do bilhete do passageiro (1ª, 2ª ou 3ª classe).
